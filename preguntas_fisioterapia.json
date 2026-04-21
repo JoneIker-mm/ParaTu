@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Las manipulaciones son técnicas que se engloban dentro de:",
+    "opciones": {
+      "A": "Cinesiterapia pasiva.",
+      "B": "Cinesiterapia activa.",
+      "C": "Cinesiterapia forzada.",
+      "D": "Ninguna de las anteriores."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 2,
+    "pregunta": "Todas las siguientes MENOS UNA pueden causar restricción de la movilidad pasiva:",
+    "opciones": {
+      "A": "Contractura.",
+      "B": "Edema intraarticular.",
+      "C": "Bloqueo mecánico.",
+      "D": "Debilidad muscular."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 3,
+    "pregunta": "La actividad muscular en la que el movimiento es superior a la resistencia, se conoce como:",
+    "opciones": {
+      "A": "Trabajo estático.",
+      "B": "Trabajo dinámico concéntrico.",
+      "C": "Trabajo dinámico excéntrico.",
+      "D": "Trabajo isométrico."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 4,
+    "pregunta": "Con relación a los principios de realización de los estiramientos músculotendinosos, señale la respuesta FALSA:",
+    "opciones": {
+      "A": "Se deben respetar los grados de libertad articulares.",
+      "B": "No provocar dolor.",
+      "C": "No es necesaria una preparación tisular previa.",
+      "D": "Se elonga la musculatura de forma progresiva."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 5,
+    "pregunta": "Indique cuál de las siguientes técnicas de tratamiento NO se considera dentro de la mecanoterapia:",
+    "opciones": {
+      "A": "Terapia con poleas.",
+      "B": "Terapia de suspensión.",
+      "C": "Terapia con inmovilización mediante férulas y yesos.",
+      "D": "Terapia con resortes."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 6,
+    "pregunta": "En las tracciones vertebrales, señale cuál de las siguientes NO es una CONTRAINDICACIÓN ABSOLUTA:",
+    "opciones": {
+      "A": "Lesión o inflamación aguda.",
+      "B": "Protusión discal medial.",
+      "C": "Hipermovilidad o inestabilidad articular.",
+      "D": "Aumento de los síntomas distales."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 7,
+    "pregunta": "La aplicación de la bomba de compresión neumática intermitente en el tratamiento del edema, está INDICADA en:",
+    "opciones": {
+      "A": "Tromboflebitis.",
+      "B": "Insuficiencia cardiaca o edema pulmonar.",
+      "C": "Infección cutánea local aguda.",
+      "D": "Edema por retención de sodio y agua."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál de los siguientes agentes físicos es el MÁS INDICADO para aumentar el flujo sanguíneo, la tasa metabólica y la extensibilidad de los tejidos blandos, a nivel superficial?",
+    "opciones": {
+      "A": "Vendaje elástico.",
+      "B": "Ultrasonido.",
+      "C": "Bolsa caliente (hot pack).",
+      "D": "Bolsa de hielo (cold pack)."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 9,
+    "pregunta": "Con relación a la crioterapia, indique qué afirmación de las siguientes es FALSA:",
+    "opciones": {
+      "A": "La crioterapia disminuye el umbral del dolor, aumentando la sensación nociceptiva.",
+      "B": "Al aplicar frío sobre la piel se origina una vasoconstricción inmediata.",
+      "C": "Cuando desciende la temperatura del nervio periférico disminuye la velocidad de conducción nerviosa.",
+      "D": "La crioterapia puede disminuir temporalmente la espasticidad."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál de las siguientes NO es una CONTRAINDICACIÓN ABSOLUTA para el uso de la termoterapia?",
+    "opciones": {
+      "A": "Deterioro de la sensibilidad.",
+      "B": "Tromboflebitis.",
+      "C": "Tumor maligno.",
+      "D": "Embarazo."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 11,
+    "pregunta": "Señale en cuál o cuáles de los siguientes casos está INDICADO el uso de la crioterapia:",
+    "opciones": {
+      "A": "Para controlar la inflamación aguda.",
+      "B": "Sobre nervios periféricos en regeneración.",
+      "C": "Sobre una zona con mala circulación.",
+      "D": "En todos los casos anteriores."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 12,
+    "pregunta": "Con relación a la hidroterapia, indique qué propiedad física del agua tiene mayor influencia en la mejora del funcionamiento cardiovascular y contribuye a reducir el edema periférico:",
+    "opciones": {
+      "A": "Conductividad térmica.",
+      "B": "Flotabilidad.",
+      "C": "Resistencia.",
+      "D": "Presión hidrostática."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 13,
+    "pregunta": "Dentro de las técnicas de hidroterapia general, las afusiones hacen referencia a:",
+    "opciones": {
+      "A": "Baños de agua salada.",
+      "B": "Derramar agua sobre el cuerpo a bajas temperaturas.",
+      "C": "Envolturas frías con sábanas mojadas.",
+      "D": "Baños de contraste."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 14,
+    "pregunta": "Indique cuál de las siguientes afirmaciones es FALSA, con relación a la hidroterapia:",
+    "opciones": {
+      "A": "Mejora los problemas osteoarticulares al existir menor carga de peso sobre las articulaciones.",
+      "B": "Permite mejorar el equilibrio en personas con problemas neurológicos.",
+      "C": "Se desaconseja el ejercicio en agua durante los primeros meses de embarazo.",
+      "D": "Mejora el funcionamiento cardiovascular y respiratorio."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 15,
+    "pregunta": "La aplicación de una corriente eléctrica directamente sobre el músculo para desencadenar una contracción muscular, se denomina:",
+    "opciones": {
+      "A": "Estimulación eléctrica funcional.",
+      "B": "Estimulación eléctrica neuromuscular.",
+      "C": "Estimulación muscular eléctrica.",
+      "D": "Estimulación farádica."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 16,
+    "pregunta": "Una corriente constituida por una serie de pulsos en la que las partículas cargadas se mueven en una sola dirección, se denomina:",
+    "opciones": {
+      "A": "Pulsada monofásica.",
+      "B": "Directa.",
+      "C": "Pulsada bifásica.",
+      "D": "Modulada."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 17,
+    "pregunta": "Entre los parámetros de estimulación eléctrica de la contracción de un músculo inervado, NO figuran:",
+    "opciones": {
+      "A": "Frecuencias de pulso de 35-80 pps (pulsos por segundo).",
+      "B": "Duración de pulso superior a 10 ms (milisegundos).",
+      "C": "Tiempos de rampa de 1-4 s (segundos).",
+      "D": "Onda pulsada bifásica."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 18,
+    "pregunta": "Con relación a la estimulación eléctrica transcutánea (TENS) convencional, es FALSO que:",
+    "opciones": {
+      "A": "Utiliza pulsos de frecuencia alta, entre 100-150 pps (pulsos por segundo).",
+      "B": "Suele emitirse con pulsos de 50-80 μs de duración (microsegundos).",
+      "C": "Pueden ser utilizados 24 horas al día si es necesario.",
+      "D": "El mecanismo de acción principal es la liberación de opiáceos endógenos."
+    },
+    "respuestaCorrecta": ""
+  },
+  {
+    "id": 19,
+    "pregunta": "La potencia de un aplicador de luz láser se mide en:",
+    "opciones": {
+      "A": "Miliamperios (mA).",
+      "B": "Milivatios (mW).",
+      "C": "Watios por centímetro cuadrado (W/cm²).",
+      "D": "Microvoltios (μV)."
+    },
+    "respuestaCorrecta": ""
+  }
+]
